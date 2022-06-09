@@ -610,6 +610,12 @@ h3 {
   background-position: center center;
   color: #fff;
 }
+.Legislation {
+  background-image: url(src/Legislation.jpg);
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}
 /*****APPLICATION******/
 #app {
   background-color: #fff;
