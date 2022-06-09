@@ -55,7 +55,7 @@ window.addEventListener("DOMContentLoaded", () => {
     }, 1500);
   });
   setTimeout(() => {
-    intro.style.top = "-100%";
+    intro.style.top = "-100vh";
   }, 1700);
 });
 document
